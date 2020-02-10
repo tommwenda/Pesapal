@@ -7,7 +7,6 @@ use Knox\Pesapal\Exceptions\PesapalException;
 use Knox\Pesapal\OAuth\OAuthConsumer;
 use Knox\Pesapal\OAuth\OAuthRequest;
 use Knox\Pesapal\OAuth\OAuthSignatureMethod_HMAC_SHA1;
-use Knox\PesaPal\OAuth\XMLHttpRequest;
 use Route;
 
 /**
